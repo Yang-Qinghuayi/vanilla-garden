@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//vim/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"//vim/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
